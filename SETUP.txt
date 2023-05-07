@@ -1,0 +1,8 @@
+dependencies needed:
+
+npm install @emotion/react @emotion/styled @mui/icons-material @mui/material
+npm install @mui/material@5.12.3
+npm install axios bootstrap cors mdb-react-ui-kit
+npm install bootstrap@5.1.3
+npm install react-bootstrap react-material-ui-carousel react-player react-router-dom react-toastify
+npm install react-bootstrap@2.7.4
